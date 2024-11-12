@@ -25,7 +25,7 @@ Bienvenue sur mon profil GitHub ! Je suis en fin de formation en Technique Infor
 
 ### 📫 Contact
 - LinkedIn: [Mehdi Ben Nasrallah](https://www.linkedin.com/in/mehdi-ben-nasrallah)
-- Email: mehdi.bennasrallah@example.com
+- Email: mehdi.ben3@hotmail.com
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de nouvelles opportunités ou de projets collaboratifs.
 
